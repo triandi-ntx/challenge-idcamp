@@ -199,5 +199,5 @@ $.ajax({
 })
 
 function copyLink() {
-   navigator.clipboard.writeText('https://islamic-bit.netlify.app')
+   navigator.clipboard.writeText('https://triandi.me/challenge-idcamp/digitalislamic/')
 }
